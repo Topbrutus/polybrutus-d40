@@ -1,0 +1,73 @@
+{
+  "ai_assistance": "OpenAI ChatGPT (Astra) materially assisted exact computation, separate verifiers, scientific manuscript and release; AI is not a scientific author",
+  "files": {
+    "POLYBRUTUS_40D_NOTE.pdf": {
+      "md5": "3ca47754ee9a1ffa6c4464b4d5196a43",
+      "sha256": "7188d52a86671e405e430c86f9c693c161e3df6a5f5f16de744c21a6d2aeba01",
+      "size": 79127
+    },
+    "POLYBRUTUS_D40_SOURCE_v0.1.0_GITHUB_TAG.zip": {
+      "md5": "e8aa8faa545733b71f4a8d6f08d7fe17",
+      "sha256": "e35f46f62d47970f886980ca74c3ecefb11449e52c88fe51e755bdf40a4837c1",
+      "size": 1891295
+    },
+    "certificate_d40.json": {
+      "md5": "8f5d78a3adb9c3dabdd3a6f1dc19938e",
+      "sha256": "af361ae471397b6d91beed87fe65c268a7139c02fbc0187400152fb8b202ffca",
+      "size": 75667
+    }
+  },
+  "github": {
+    "frozen_scientific_tag": "v0.1.0",
+    "main_before_tag_ci": "https://github.com/Topbrutus/polybrutus-d40/actions/runs/44881973016",
+    "repository": "https://github.com/Topbrutus/polybrutus-d40",
+    "scientific_source_commit": "2a9fa8265b709d6d971afb6c63b7b024011e67a1",
+    "scientific_tag_ci": "https://github.com/Topbrutus/polybrutus-d40/actions/runs/44882021568"
+  },
+  "limitations": "Specific exact synthetic Euclidean metric and separately stipulated ideal graph; no measured physical spacetime dimension, resonance, particle, novel universal theorem or independent human peer review claimed",
+  "mathematics": {
+    "affine_rank": 40,
+    "centered_gram_rank": 40,
+    "conserved_parent_pairs": 946,
+    "histogram_k_4d2": {
+      "10": 10,
+      "12": 6,
+      "13": 2,
+      "16": 2,
+      "4": 6,
+      "7": 2,
+      "8": 959,
+      "9": 3
+    },
+    "new_pairs": 44,
+    "pairs": 990,
+    "selected_graph_eigenvalue_22_multiplicity": 4,
+    "selected_graph_eigenvalue_45_over_2_multiplicity": 34,
+    "sum_squared_distances_R1": "7967/4",
+    "vertices": 45
+  },
+  "memoria": {
+    "checkpoint": "memoria/checkpoints/POLYBRUTUS_D40_PUBLICATION_2026-11-21.md",
+    "registry": "memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md",
+    "repository": "Topbrutus/topbrutus_one"
+  },
+  "parent": {
+    "certificate_sha256": "8cd6731c294537d74c04a3501fe0da76a2cee6d496a2d2d5dfcfb0a26bb9304f",
+    "doi": "10.5281/zenodo.24413712",
+    "frozen_scientific_tag": "v0.1.0",
+    "repository": "Topbrutus/polybrutus-d39",
+    "scientific_source_commit": "a43cd3c67017fb6162005fd521c156cb78795beb",
+    "source_tag_embedded_by_git_archive": true
+  },
+  "publication_date": "2026-11-21",
+  "schema": "POLYBRUTUS-D40-RELEASE-MANIFEST-v1",
+  "scientific_author": "Gabriel St-Pierre, independent researcher",
+  "status": "DONE",
+  "version": "0.1.0",
+  "zenodo": {
+    "doi": "10.5281/zenodo.24414238",
+    "public_integrity": "3/3 files checked for sizes and MD5 against Zenodo public API",
+    "public_url": "https://zenodo.org/records/24414238",
+    "record_id": 24414238
+  }
+}

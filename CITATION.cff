@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d40
 abstract: "Exact 45-point Euclidean labelled metric preserving all 946 frozen predecessor pairs and stipulated ideal weighted graph modes."
+doi: 10.5281/zenodo.24414238
+url: https://doi.org/10.5281/zenodo.24414238

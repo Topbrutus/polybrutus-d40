@@ -23,6 +23,15 @@ python tests/independent_d40.py
 
 Both verification programs print the same SHA-256 for deterministic `results/certificate_d40.json`. The complete frozen predecessor D39 scientific tag, including its ancestors, is archived under `prior/d39/` as ordinary files via `git archive` (no nested Git repository or submodules).
 
+## Official DOI and verified public release
+
+- **Official DOI:** [10.5281/zenodo.24414238](https://doi.org/10.5281/zenodo.24414238).
+- **Public Zenodo record:** https://zenodo.org/records/24414238, all 3 files verified against sizes and MD5 with Zenodo public API.
+- **Frozen scientific source:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d40/tree/v0.1.0), commit `2a9fa8265b709d6d971afb6c63b7b024011e67a1`.
+- **Tag CI:** [GitHub Actions 44882021568](https://github.com/Topbrutus/polybrutus-d40/actions/runs/44882021568), success.
+- **Durable checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D40_PUBLICATION_2026-11-21.md .
+- **Publications registry:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific materials and limits
 
 - [Exact specification](SPECIFICATION_D40.md), [constructive proof and adversarial controls](PREUVE_D40.md), [provenance](PROVENANCE.md).
